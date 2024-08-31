@@ -1,5 +1,5 @@
 outs:
-- md5: 099deeec9adf0428b47b4340a6400162
-  size: 3082
+- md5: 1726c463a2f93a66c843619efcbfdf8e
+  size: 12
   hash: md5
   path: Employee_info.txt
